@@ -1,0 +1,10 @@
+A - doplnit komplet READ_ME file
+
+B - zajistit všechny kroky z prvního týdne (zadani projektu)
+
+C - stopky budou umět uložit časy předchozích časů (mame 5 tlačitek, 1 - START (jenom start časomíry), 2 - ZMERENI_CASU (jenom změření času, čas bude dal utikat), 3 - KONEC (zastaví časomíru), 
+4 - KONTROLA (možnost prochazet všechny změřené časy), 5 - RESET (vymaže uložené časy, připraví stopky na další měřený)
+
+D - PAMATOVAT ZE TO MAJI BYT KOLOVE STOPKY, FUNGUJI KAPKU JINAK A MUSI SE TO VYMYSELT 
+
+E - kolo max 99:99 sekund, po každem změřenem kole se čas na časomíre vyresetuje 
