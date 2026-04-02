@@ -12,3 +12,5 @@ E - kolo max 99:99 sekund, po každem změřenem kole se čas na časomíre vyre
 F - rozdělit si jednotlivé úkoly, plakat, video, kod (nakonec tady musí být kdo co dělat, alespoň v odrazkach)
 
 G - vymyslet blokove schema, jaké jsou vstupy a vystupy, co bude využito, nějakasi takasi ukazka incializace 
+
+H - inicializace je komplet na nas, takže nejdřive vubec udělat aby jsme dokazali dostat čas z těch stopek takový jaký je, až potom řešit jestli budem ukazovat jen segmentyy, nebo celý čas, nebo cokoli co vymyslime 
