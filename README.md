@@ -22,6 +22,6 @@ BTNU (Nahoře)	RESET
 Globální synchronní reset: vynuluje čas a kompletně vymaže paměť kol.
 
 Popis simulace:
-na obrazku simulace mužeme vidět, jak nám nahoře v clk, počítáme čas, který uběhl. Řádek rst je na začatku jedna, tím je ukázáno resetování měření a paměti. En_100hz ukazuje frekvenci, na které fungujeme. Btn_start znazorńuje tlačitko, kterým začneme měření. Btn_lap znázorňuje tlačítko, kterým změříme kolo a resetujeme časomíru. Btn_stop znázorńuje tlačítko, kterým zastavíme měření a jsme připraveni kontolovat změřené časy. 
+na obrazku simulace mužeme vidět, jak nám nahoře v clk, počítáme čas, který uběhl. Řádek s_rst ukazuje tlačítko pro vymazání uložených časů. Řádek s_btn_start ukazuje tlačítko pro start časovače. Řádek s_btn_lap ukazuje, že když zmačkneme tlačitko pro měření času, čas se uloži. Řádek s_btn_stop ukazuje tlačitko, ktere ukončí měření času. Řádek s_btn_view ukazuje, že když ho zmačkneme, postupně ukazuje jednotlivá uložená kola. Řádky s_data a s_lap_num ukazují data která jsme uložili a poček měření. 
 
-![description](simulace.png)
+![description](Simulace_last.png)
