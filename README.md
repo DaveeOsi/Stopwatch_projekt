@@ -11,7 +11,9 @@ Měření kol (Lap): Možnost změřit aktuální čas kola, který se uloží d
 
 Historie měření: Možnost procházet až 8 naposledy uložených časů kol.
 
-Odkaz na video:https://youtu.be/4Q61KutTz-0
+Odkaz na video: [Video](https://youtu.be/4Q61KutTz-0)
+
+Odkaz na projekt: [Projekt](DE1_ProjektFinal)
 
 ## Ovládání 
 K ovládání stopek se využívá 5 tlačítek v křížovém uspořádání na desce Nexys A7:
