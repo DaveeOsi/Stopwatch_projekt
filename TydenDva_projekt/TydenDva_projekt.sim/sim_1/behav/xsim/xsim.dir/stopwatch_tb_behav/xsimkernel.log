@@ -1,7 +1,0 @@
-Running: xsim.dir/stopwatch_tb_behav/xsimk.exe -simmode gui -wdb stopwatch_tb_behav.wdb -simrunnum 0 -socket 49359
-Design successfully loaded
-Design Loading Memory Usage: 10600 KB (Peak: 10600 KB)
-Design Loading CPU Usage: 31 ms
-Simulation completed
-Simulation Memory Usage: 11436 KB (Peak: 11436 KB)
-Simulation CPU Usage: 62 ms
