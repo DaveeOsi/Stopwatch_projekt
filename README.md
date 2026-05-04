@@ -11,7 +11,9 @@ Měření kol (Lap): Možnost změřit aktuální čas kola, který se uloží d
 
 Historie měření: Možnost procházet až 8 naposledy uložených časů kol.
 
-Ovládání 
+Odkaz na video:https://youtu.be/4Q61KutTz-0
+
+## Ovládání 
 K ovládání stopek se využívá 5 tlačítek v křížovém uspořádání na desce Nexys A7:
 Tlačítko	Funkce	Popis
 + BTNC (Střed)	START	Spustí hlavní časomíru.
@@ -21,7 +23,12 @@ Tlačítko	Funkce	Popis
 + BTNU (Nahoře)	RESET	
 Globální synchronní reset: vynuluje čas a kompletně vymaže paměť kol.
 
-## Popis simulace:
+## Blokové schéma
+Blokové schéma vygenerované Vivadem z poslední iterace projektu. Doplněné popisem jednotlivých bloků.
+
+![description](schema_popsané.png)
+
+## Popis simulace
 Na obrázku můžeme vidět simulaci, kterou jsme získali ve Vivadu. Zkoušíme simulovat, jestli náš koncept funguje. Kod simulace je [zde](DE1_ProjektFinal/DE1_ProjektFinal.srcs/sim_1/new/StopwatchLast_tb.vhd).
 + s_clk a s_en_100hz: Ukazka časovače a pruběh měření.
 + s_rst: Tlačitko na restart měření, po zmáčknutí se vymažou data.
@@ -31,6 +38,10 @@ Na obrázku můžeme vidět simulaci, kterou jsme získali ve Vivadu. Zkoušíme
 + s_btn_view: Tlačítko pro ukazku změřených časů, po zmačknutí se postupně zobrazují jednotlivá naměřená kola.
 + s_data a s_lap_num: Ukazka počtku kola a uložených dat.
   
-
-
 ![description](Simulace_last.png)
+
+## Využité součástky 
+
+
+
+
