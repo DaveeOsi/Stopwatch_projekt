@@ -52,6 +52,7 @@ Na obrázku můžeme vidět simulaci, kterou jsme získali ve Vivadu. Zkoušíme
 + Github pana docenta: [Git](https://github.com/tomas-fryza/vhdl-examples)
 + Kolegové
 + Umělá inteligence
++ Testbench: [Testbench](https://vhdl.lapinoo.net)
 
 
 
