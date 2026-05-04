@@ -15,6 +15,8 @@ Odkaz na video: [Video](https://youtu.be/4Q61KutTz-0)
 
 Odkaz na projekt: [Projekt](DE1_ProjektFinal)
 
+Odkaz na plakat: [Plakat](DE1_plakat.png)
+
 ## Ovládání 
 K ovládání stopek se využívá 5 tlačítek v křížovém uspořádání na desce Nexys A7:
 Tlačítko	Funkce	Popis
