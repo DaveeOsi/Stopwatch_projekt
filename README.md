@@ -45,6 +45,10 @@ Na obrázku můžeme vidět simulaci, kterou jsme získali ve Vivadu. Zkoušíme
 ![description](Simulace_last.png)
 
 ## Využité součástky 
++ Segmentový display
++ Anodu pro desetinou tečku
++ Anody pro zobrazování času
++ Tlačítka
 
 
 ## Využité meterialy
